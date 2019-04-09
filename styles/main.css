@@ -1,3 +1,7 @@
 body {
     background-color: pink;
 }
+
+.book-cover {
+    height: 200px;
+}
